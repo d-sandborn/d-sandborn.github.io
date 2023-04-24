@@ -1,0 +1,20 @@
+---
+title: "Other Stuff"
+editor: visual
+---
+
+## Outreach and Teaching
+
+### Day of [Water] Data 2023
+
+[A demonstration](https://d-sandborn.github.io/DayOfWaterData2023/) of data science tools applied to local water resources research.
+
+### WikiProject Limnology and Oceanography
+
+[A collaborative effort](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Limnology_and_Oceanography) to improve L&O-related content on Wikipedia. 
+
+## Coding
+
+### RPi-Alkalinity
+
+[Resources](https://github.com/d-sandborn/RPi-Alkalinity) for open-source, low-cost alkalinity titration with a Raspberry Pi.

@@ -14,11 +14,14 @@ website:
         text: Contact
       - href: CV_Sandborn.pdf
         text: CV
+      - href: other.qmd
+        text: Other Stuff
 
 format:
   html:
     theme: sandstone
     css: styles.css
     toc: true
+    font-family: serif
 
 editor: visual
