@@ -25,4 +25,4 @@ about:
 Daniel Sandborn is a PhD Candidate at the University of Minnesota. His doctoral research explores carbon biogeochemistry in large lakes and ocean environments, with emphasis on the inorganic carbon complex. Carbon cycling and bicycling are two of his passions.
 :::
 
-**carbon cycling | instrument development | chemical limnology & oceanography**
+<p style="text-align: center;">**carbon cycling | instrument development | chemical limnology & oceanography**</p>
