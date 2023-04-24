@@ -2,7 +2,8 @@
 title: "Daniel E. Sandborn"
 about:
   template: jolla
-  image: profile.jpg
+  id: bio-heading
+  image: img/profile.jpg
   links:
     - icon: github
       text: Github
@@ -20,5 +21,8 @@ about:
       text: twitter
       href: https://twitter.com/DanielSandborn
 ---
+:::{#bio-heading}
+Daniel Sandborn is a PhD Candidate at the University of Minnesota. His doctoral research explores carbon biogeochemistry in large lakes and ocean environments, with emphasis on the inorganic carbon complex. Carbon cycling and bicycling are two of his passions.
+:::
 
-Daniel Sandborn is a PhD Candidate at the University of Minnesota. His research explores carbon biogeochemistry in large lakes and ocean environments, with emphasis on the inorganic carbon complex. Carbon cycling and bicycling are two of his passions.
+## carbon biogeochemistry | instrument development | chemical limnology & oceanography

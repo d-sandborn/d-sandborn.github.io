@@ -4,7 +4,14 @@
     "href": "about.html",
     "title": "Daniel E. Sandborn",
     "section": "",
-    "text": "Daniel Sandborn is a PhD Candidate at the University of Minnesota. His research explores carbon biogeochemistry in large lakes and ocean environments, with emphasis on the inorganic carbon complex. Carbon cycling and bicycling are two of his passions."
+    "text": "Daniel Sandborn is a PhD Candidate at the University of Minnesota. His doctoral research explores carbon biogeochemistry in large lakes and ocean environments, with emphasis on the inorganic carbon complex. Carbon cycling and bicycling are two of his passions.\n \n  \n   \n  \n    \n     Github\n  \n  \n    \n     mastodon\n  \n  \n    \n     UMN\n  \n  \n    \n     linkedin\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "about.html#carbon-biogeochemistry-instrument-development-chemical-limnology-oceanography",
+    "href": "about.html#carbon-biogeochemistry-instrument-development-chemical-limnology-oceanography",
+    "title": "Daniel E. Sandborn",
+    "section": "carbon biogeochemistry | instrument development | chemical limnology & oceanography",
+    "text": "carbon biogeochemistry | instrument development | chemical limnology & oceanography"
   },
   {
     "objectID": "contact.html",
@@ -16,22 +23,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "d-sandborn.github.io",
+    "title": "Daniel E. Sandborn",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Daniel Sandborn is a PhD Candidate at the University of Minnesota. His doctoral research explores carbon biogeochemistry in large lakes and ocean environments, with emphasis on the inorganic carbon complex. Carbon cycling and bicycling are two of his passions.\n \n  \n   \n  \n    \n     Github\n  \n  \n    \n     mastodon\n  \n  \n    \n     UMN\n  \n  \n    \n     linkedin\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "index.html#carbon-biogeochemistry-instrument-development-chemical-limnology-oceanography",
+    "href": "index.html#carbon-biogeochemistry-instrument-development-chemical-limnology-oceanography",
+    "title": "Daniel E. Sandborn",
+    "section": "carbon biogeochemistry | instrument development | chemical limnology & oceanography",
+    "text": "carbon biogeochemistry | instrument development | chemical limnology & oceanography"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications & Projects",
     "section": "",
-    "text": "Google Scholar Profile."
+    "text": "ORCID Profile"
+  },
+  {
+    "objectID": "publications.html#projects",
+    "href": "publications.html#projects",
+    "title": "Publications & Projects",
+    "section": "Projects",
+    "text": "Projects\n\nOngoing Projects\nObservation of pCO2 in Lake Superior using underway instrumentation supported by a Grant-in-Aid from the University of Minnesota\nThe Laurentian Great Lakes act as regionally- and globally-significant carbon cycling actors, but the magnitude of their impact remains unclear due to an incomplete observational and modeling picture of their carbon biogeochemistry. This study demonstrates the use of underway instrumentation measuring pCO2 to provide accurate measurements with high temporal and spatial resolution in the largest freshwater system by area, Lake Superior. The results of this project will point the way toward expanded carbon cycling observations and improved biogeochemical model constraints.\nCalcium carbonate saturation effects on Dreissenid mussel habitat funded by Cooperative Institute for Great Lakes Research\nCalcium carbonate satration state determines the solubility of calcium carbonate in aquatic environments. Organisms with shells made of calcite and aragonite (two mineral forms of calcium carbonate) are sensitive to calcium carbonate saturation state in marine environments. The potential for this environmental parameter to determine the habitat of freshwater invasive aquatic species with calcium carbonate shells has not been explored Previous work has demonstrated both calcium and pH sensitivities of Dreissenid mussels, which points towards the role of calcium carbonate saturation state as an ecological parameter of great importance. This project combines observational and experimental methods to guage the sensitivity of Dreissenid mussel development and habitat to carbonate chemical drivers.\n\n\nPast Projects\nExpanding alkalinity measurement accessibility with open-source, low-cost instrumentation supported by a Grant-in-Aid from the University of Minnesota\nThis work demonstrated an instrument for total alkalinity measurement using open-source software and low-cost components with the goal of expanding measurement accessibility. Total alkalinity is a pivotal parameter for measurements of environmental water chemistry and ocean acidification. High-precision, high-accuracy measurements of alkalinity are crucial for obsrvations of water chemistry in a changing world. This study created the first total alkalinity system based on a Raspberry-Pi microcomputer to produce high-quality measurements with applications across the marine-lacustrine spectrum.\nPurification of meta-Cresol Purple Dye via Flash Chromatography for Accurate Seawater pH Measurement funded by the Council on Ocean Affairs Science and Technology, California State University\nThis project sought to purify a pH-sensitive dye for high-precision, high-accuracy spectrophotometric pH determination of California Central Coast seawater. Flash chromatography has been demonstrated to provide a fast and easy purification method for pH-sensitive dyes. These dyes are crucial for obtaining high-quality measurements of ocean pH as a parameter of ocean acidification."
   },
   {
     "objectID": "publications.html#academic-publications",
     "href": "publications.html#academic-publications",
     "title": "Publications & Projects",
     "section": "Academic Publications",
-    "text": "Academic Publications\nComing soon!"
+    "text": "Academic Publications\nSandborn, D.E.; Minor, E.C.; Hill, C. “Total Alkalinity Measurement Using an Open-Source Platform”. Accepted for publication (2023), Limnology and Oceanography Methods\nHumphreys, M. P., Schiller, A. J., Sandborn, D. E., Gregor, L., Pierrot, D., van Heuven, S. M. A. C., Lewis, E. R., and Wallace, D. W. R. (2023). PyCO2SYS: marine carbonate system calculations in Python. Zenodo. doi:10.5281/zenodo.3744275."
   }
 ]
