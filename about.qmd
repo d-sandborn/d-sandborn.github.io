@@ -10,7 +10,7 @@ about:
       href: https://github.com/d-sandborn
     - icon: mastodon
       text: mastodon
-      href: https://twitter.com/DanielSandborn
+      href: https://sciencemastodon.com/@DanielSandborn
     - icon: mortarboard
       text: UMN
       href: https://scse.d.umn.edu/faculty-staff/daniel-sandborn
