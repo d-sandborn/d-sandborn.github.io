@@ -12,10 +12,12 @@ website:
         text: Publications & Projects
       - href: contact.qmd
         text: Contact
+      - href: CV_Sandborn.pdf
+        text: CV
 
 format:
   html:
-    theme: united
+    theme: sandstone
     css: styles.css
     toc: true
 

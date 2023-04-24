@@ -1,5 +1,24 @@
 ---
-title: "About"
+title: "Daniel E. Sandborn"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/d-sandborn
+    - icon: mastodon
+      text: mastodon
+      href: https://twitter.com/DanielSandborn
+    - icon: mortarboard
+      text: UMN
+      href: https://scse.d.umn.edu/faculty-staff/daniel-sandborn
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/daniel-e-sandborn-b823a0133/
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/DanielSandborn
 ---
 
-About this site
+Daniel Sandborn is a PhD Candidate at the University of Minnesota. His research explores carbon biogeochemistry in large lakes and ocean environments, with emphasis on the inorganic carbon complex. Carbon cycling and bicycling are two of his passions.

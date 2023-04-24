@@ -4,6 +4,6 @@ editor: visual
 ---
 
 Daniel E. Sandborn, PhD Candidate\
-[sandb425\@umn.edu](mailto:%20sandb425@umn.edu)\
+[sandb425\@umn.edu](mailto:%20sandb425@umn.edu)\ 
+Large Lakes Observatory, 2205 E. 5th Street, Duluth MN 55812 USA\
 
-This website is still under development.  Please feel free to contact me at the email address above.
