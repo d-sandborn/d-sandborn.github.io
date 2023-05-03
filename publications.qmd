@@ -31,10 +31,12 @@ This work demonstrated an instrument for total alkalinity measurement using open
 
 This project sought to purify a pH-sensitive dye for high-precision, high-accuracy spectrophotometric pH determination of California Central Coast seawater.  Flash chromatography has been demonstrated to provide a fast and easy purification method for pH-sensitive dyes.  These dyes are crucial for obtaining high-quality measurements of ocean pH as a parameter of ocean acidification.  
 
-## Academic Publications
+## Publications
 
 **Sandborn, D.E.**; Minor, E.C.; Hill, C. “Total Alkalinity Measurement Using an Open-Source
-Platform”. Accepted for publication (2023), Limnology and Oceanography Methods
+Platform”. In press (2023). Limnology and Oceanography Methods.
+
+**Sandborn, D.E.** (2023). "RPi-Alkalinity: Publication Release". Zenodo. doi: 10.5281/zenodo.7864447
 
 Humphreys, M. P., Schiller, A. J., **Sandborn, D. E.**, Gregor, L., Pierrot, D., van Heuven, S.
 M. A. C., Lewis, E. R., and Wallace, D. W. R. (2023). PyCO2SYS: marine carbonate system

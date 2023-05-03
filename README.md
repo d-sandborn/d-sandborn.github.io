@@ -1,2 +1,2 @@
 # d-sandborn.github.io
-Personal portfolio website. Still under development!
+[Personal portfolio website.](https://d-sandborn.github.io/)
