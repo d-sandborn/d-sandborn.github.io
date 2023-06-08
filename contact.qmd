@@ -3,7 +3,7 @@ title: "Contact Information"
 editor: visual
 ---
 
-Daniel E. Sandborn, PhD Candidate\
+Daniel E. Sandborn, Ph.D. Candidate\
 
 [sandb425\@umn.edu](mailto:%20sandb425@umn.edu)\ 
 

@@ -15,7 +15,7 @@ website:
       - href: CV_Sandborn.pdf
         text: CV
       - href: other.qmd
-        text: Other Stuff
+        text: Other Resources
 
 format:
   html:

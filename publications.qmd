@@ -34,7 +34,7 @@ This project sought to purify a pH-sensitive dye for high-precision, high-accura
 ## Publications
 
 **Sandborn, D.E.**; Minor, E.C.; Hill, C. “Total Alkalinity Measurement Using an Open-Source
-Platform”. In press (2023). Limnology and Oceanography Methods.
+Platform”. (2023). Limnology and Oceanography Methods. doi:10.1002/lom3.10549
 
 **Sandborn, D.E.** (2023). "RPi-Alkalinity: Publication Release". Zenodo. doi: 10.5281/zenodo.7864447
 

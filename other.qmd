@@ -2,6 +2,15 @@
 title: "Other Stuff"
 editor: visual
 ---
+## Presentation Resources
+
+### OCB 2023 | Woods Hole, MA, USA
+
+"The Other CO<sub>2</sub> Problem in the Saltless Seas: High-Resolution Observations in Lake Superior"
+[Click here for a PDF of my poster.](Sandborn_OCB_23.pdf)
+
+This poster is associated with a manuscript: 
+> "Lake Superior *p*CO<sub>2</sub> is controlled by the atmosphere and modified by seasonal drivers". Sandborn, D.E.; Minor, E.C. *In preparation.*
 
 ## Outreach and Teaching
 
