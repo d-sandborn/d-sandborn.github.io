@@ -4,15 +4,25 @@ editor: visual
 ---
 ## Presentation Resources
 
+### ASLO 2024 | Madison, WI, USA
+
+"Patterns of Lake Superior AIS dispersal illustrated by particle tracking"
+
+Abstract and Github repository links coming soon!
+
+This presentation is associated with a manuscript:
+
+> **Sandborn, D. E.**; Austin, J. A.; Lafrancois, B. M. ``Developing a particle tracking model in Lake Superior''. NPS Reports. *In preparation.*
+
 ### OCB 2023 | Woods Hole, MA, USA
 
 "The Other CO<sub>2</sub> Problem in the Saltless Seas: High-Resolution Observations in Lake Superior"
 
 [Click here for a PDF of my poster.](Sandborn_OCB_23.pdf)
 
-This poster is associated with a manuscript: 
+This poster is associated with a publication: 
 
-> "Lake Superior *p*CO<sub>2</sub> is controlled by the atmosphere and modified by seasonal drivers". Sandborn, D.E.; Minor, E.C. *In preparation.*
+> **Sandborn, D. E.** & Minor, E. C. (2024). Underway *p*CO<sub>2</sub> surveys unravel CO<sub>2</sub> invasion of Lake Superior from seasonal variability. Journal of Geophysical Research: Biogeosciences, 129, e2023JG007877. [doi:10.1029/2023JG007877](https://doi.org/10.1029/2023JG007877)
 
 ## Outreach and Teaching
 
