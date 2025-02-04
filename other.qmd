@@ -8,11 +8,9 @@ editor: visual
 
 "Patterns of Lake Superior AIS dispersal illustrated by particle tracking"
 
-Abstract and Github repository links coming soon!
-
 This presentation is associated with a manuscript:
 
-> **Sandborn, D. E.**; Austin, J. A.; Lafrancois, B. M. ``Developing a particle tracking model in Lake Superior''. NPS Reports. *In preparation.*
+> **Sandborn, D. E.**; Austin, J. A.; Lafrancois, B. M. (2025). ``Developing a particle tracking model in Lake Superior''. NPS Reports. *Submitted.*
 
 ### OCB 2023 | Woods Hole, MA, USA
 
