@@ -12,17 +12,16 @@ about:
       text: mastodon
       href: https://sciencemastodon.com/@DanielSandborn
     - icon: mortarboard
-      text: UMN
-      href: https://scse.d.umn.edu/faculty-staff/daniel-sandborn
+      text: UW
+      href: https://www.ocean.washington.edu/home/Daniel_E_Sandborn
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/daniel-e-sandborn-b823a0133/
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/DanielSandborn
 ---
 :::{#bio-heading}
-Daniel Sandborn earned his doctorate at the University of Minnesota. His research explores carbon biogeochemistry in large lakes and ocean environments, with emphasis on the inorganic carbon complex. Carbon cycling and bicycling are two of his passions.
+Daniel Sandborn is a postdoctoral researcher at the University of Washington School of Oceanography. His work uses observations of trace gases in the ocean to quantify the ocean's response and feedback to Earth's changing carbon cycle (incl. carbon storage, ocean acidification, and ventilation). He earned his doctorate at the University of Minnesota working at the Large Lakes Observatory to measure the shifting carbon cycle of Lake Superior and other large lakes. Carbon cycling and bicycling are two of his passions.
+
+Have questions? Want to know more? Interested in engaging with this research? Please reach out at the *Contact* tab above.
 :::
 
-<p style="text-align: center;">**carbon cycling | instrument development | chemical limnology & oceanography**</p>
+<p style="text-align: center;">**carbon cycling | transient tracers | chemical limnology & oceanography**</p>
