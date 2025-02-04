@@ -38,8 +38,13 @@ This work demonstrated an instrument for total alkalinity measurement using open
 This project sought to purify a pH-sensitive dye for high-precision, high-accuracy spectrophotometric pH determination of California Central Coast seawater.  Flash chromatography has been demonstrated to provide a fast and easy purification method for pH-sensitive dyes.  These dyes are crucial for obtaining high-quality measurements of ocean pH as a parameter of ocean acidification.  
 
 ## Publications
+**Sandborn, D. E.**; Austin, J. A.; Lafrancois, B. M. (2025). ``Developing a particle tracking model in Lake Superior’’. NPS Reports. Submitted.
 
 **Sandborn, D. E.** & Minor, E. C. (2024). Underway *p*CO<sub>2</sub> surveys unravel CO<sub>2</sub> invasion of Lake Superior from seasonal variability. Journal of Geophysical Research: Biogeosciences, 129, e2023JG007877. [doi:10.1029/2023JG007877](https://doi.org/10.1029/2023JG007877) 
+
+Pennington, S. et al. (2023). "EXCHANGE Campaign 1: A Community-Driven Baseline Characterization of Soils, Sediments, and Water Across Coastal Gradients"
+
+Regier P. et al. (2023) "Coastal inundation regime moderates the short-term effects of sediment and soil additions on seawater oxygen and greenhouse gas dynamics: a microcosm experiment" Frontiers in Marine Science. [doi: 10.3389/fmars.2023.1308590](https://doi.org/10.3389/fmars.2023.1308590)
 
 **Sandborn, D. E.**; Minor, E. C.; Hill, C. “Total Alkalinity Measurement Using an Open-Source
 Platform”. (2023). Limnology and Oceanography Methods. [doi:10.1002/lom3.10549](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10549)
