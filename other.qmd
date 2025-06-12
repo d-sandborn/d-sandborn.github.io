@@ -34,6 +34,8 @@ This poster is associated with a publication:
 
 ## Coding
 
+### TRACE: Tracer-based Rapid Anthropogenic Carbon Estimation is an algorithm for estimation of anthropogenic carbon in the ocean. It's available for MATLAB (originally -- see the [TRACEv1 paper](https://essd.copernicus.org/preprints/essd-2024-560/)) and my [Python](https://github.com/d-sandborn/pyTRACE) port. 
+
 ### RPi-Alkalinity
 
 [Resources](https://github.com/d-sandborn/RPi-Alkalinity) for open-source, low-cost alkalinity titration with a Raspberry Pi.
