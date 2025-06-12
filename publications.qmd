@@ -8,40 +8,45 @@ editor: visual
 
 ### Ongoing Projects
 **Leveraging hydrographic observations of transient tracers in the ocean to create statistical and inverse models of ocean circulation and carbon biogeochemistry**
-*supported by a GO-SHIP Tracer Postdoctoral Fellowship*
+*supported by GO-SHIP Tracer Postdoctoral Fellowship*
 
 Transient tracers of ocean circulation, such as chlorofluorocarbons and sulfur hexafluoride, provide a powerful means of observing and inferring ocean circulation as a primary driver of the marine carbon sink of anthropogenic carbon. This project uses the wealth of transient tracer observations of the open ocean to address persistent disagreements in the strength and trend of ocean carbon storage, which is an important regulator of Earth's climate. While utilizing existing measurements, I will participate in repeat hydrography expeditions to perpetuate the invaluable transient tracer observation program. 
 
-**Developing a particle tracking model of the Laurentian Great Lakes**
-*supported by a grant from the National Park Service to J. Austin*
 
-Particle tracking is a too used to model the transport of particles in a body of water described by a hydrodynamic model. This project combines the NOAA Great Lakes Observational Forecast Systems with OceanTracker, an open-source high-speed particle tracking package, to run simulated natural experiments of particle release and transport. These experiments are being applied to study aquatic invasive species, microplastics, and point-source pollution problems in the Laurentian Great Lakes.
+## Publications
+**Sandborn, D. E.**; Minor, E. C. A neural network-based estimate of the seasonal to inter-annual variability of the Lake Superior carbon cycle. Journal of Geophysical Research: Biogeosciences. *In review.*
 
+**Sandborn, D. E.**; Austin, J. A.; Lafrancois, B. M. (2025). Developing a particle tracking model in Lake Superior. NPS Reports. *In review.*
+
+Christensen, V. G., Katona, L. R., Trompeter, H. E., Maki, R. P., Smith, J. C., & **Sandborn, D. E.** (2025). Water quality-based risk assessment for zebra mussel establishment: a case study of single- and multiple-factor methods in northern temperate lakes. Lake and Reservoir Management, 1–19. [doi:10.1080/10402381.2025.2488829](https://doi.org/10.1080/10402381.2025.2488829)
+
+**Sandborn, D. E.** & Minor, E. C. (2024). Underway *p*CO<sub>2</sub> surveys unravel CO<sub>2</sub> invasion of Lake Superior from seasonal variability. Journal of Geophysical Research: Biogeosciences, 129, e2023JG007877. [doi:10.1029/2023JG007877](https://doi.org/10.1029/2023JG007877) 
+
+Pennington, Stephanie C. et al. (2023). EXCHANGE Campaign 1: A Community-Driven Baseline Characterization of Soils, Sediments, and Water Across Coastal Gradients. [doi:10.15485/1960313](https://doi.org/10.15485/1960313)
+
+Regier P. et al. (2023) Coastal inundation regime moderates the short-term effects of sediment and soil additions on seawater oxygen and greenhouse gas dynamics: a microcosm experiment. Frontiers in Marine Science. [doi: 10.3389/fmars.2023.1308590](https://doi.org/10.3389/fmars.2023.1308590)
+
+**Sandborn, D. E.**; Minor, E. C.; Hill, C. “Total Alkalinity Measurement Using an Open-Source
+Platform”. (2023). Limnology and Oceanography Methods. [doi:10.1002/lom3.10549](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10549)
+
+## Software
+**Sandborn, D. E.**, & Carter, B. (2025). Tracer-based Rapid Anthropogenic Carbon Estimation (TRACEv0.1.0-Python) (v0.1.0-beta). Zenodo. [doi:10.5281/zenodo.15597123](https://doi.org/10.5281/zenodo.15597123)
+
+**Sandborn, D. E.** (2023). "RPi-Alkalinity: Publication Release". Zenodo. [doi:10.5281/zenodo.7864447](https://doi.org/10.5281/zenodo.7864447)
+
+Humphreys, M. P., Schiller, A. J., **Sandborn, D. E.**, Gregor, L., Pierrot, D., van Heuven, S. M. A. C., Lewis, E. R., and Wallace, D. W. R. (2023). PyCO2SYS: marine carbonate system calculations in Python. Zenodo. [doi:10.5281/zenodo.3744275](https://doi.org/10.5281/zenodo.3744275)
+
+
+## Past Projects
 **Calcium carbonate saturation effects on Dreissenid mussel habitat**
 *funded by a graduate research fellowship from the Cooperative Institute for Great Lakes Research*
 
 Calcium carbonate satration state determines the solubility of calcium carbonate in aquatic environments.  Organisms with shells made of calcite and aragonite (two mineral forms of calcium carbonate) are sensitive to calcium carbonate saturation state in marine environments.  The potential for this environmental parameter to determine the habitat of freshwater invasive aquatic species with calcium carbonate shells has not been explored Previous work has demonstrated both calcium and pH sensitivities of Dreissenid mussels, which points towards the role of calcium carbonate saturation state as an ecological parameter of great importance.  This project combines observational and experimental methods to guage the sensitivity of Dreissenid mussel development and habitat to carbonate chemical drivers.
 
+**Developing a particle tracking model of the Laurentian Great Lakes**
+*supported by a grant from the National Park Service to J. Austin*
 
-## Publications
-**Sandborn, D. E.**; Austin, J. A.; Lafrancois, B. M. (2025). ``Developing a particle tracking model in Lake Superior’’. NPS Reports. Submitted.
-
-**Sandborn, D. E.** & Minor, E. C. (2024). Underway *p*CO<sub>2</sub> surveys unravel CO<sub>2</sub> invasion of Lake Superior from seasonal variability. Journal of Geophysical Research: Biogeosciences, 129, e2023JG007877. [doi:10.1029/2023JG007877](https://doi.org/10.1029/2023JG007877) 
-
-Pennington, S. et al. (2023). "EXCHANGE Campaign 1: A Community-Driven Baseline Characterization of Soils, Sediments, and Water Across Coastal Gradients"
-
-Regier P. et al. (2023) "Coastal inundation regime moderates the short-term effects of sediment and soil additions on seawater oxygen and greenhouse gas dynamics: a microcosm experiment" Frontiers in Marine Science. [doi: 10.3389/fmars.2023.1308590](https://doi.org/10.3389/fmars.2023.1308590)
-
-**Sandborn, D. E.**; Minor, E. C.; Hill, C. “Total Alkalinity Measurement Using an Open-Source
-Platform”. (2023). Limnology and Oceanography Methods. [doi:10.1002/lom3.10549](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10549)
-
-**Sandborn, D. E.** (2023). "RPi-Alkalinity: Publication Release". Zenodo. doi: 10.5281/zenodo.7864447
-
-Humphreys, M. P., Schiller, A. J., **Sandborn, D. E.**, Gregor, L., Pierrot, D., van Heuven, S.
-M. A. C., Lewis, E. R., and Wallace, D. W. R. (2023). PyCO2SYS: marine carbonate system
-calculations in Python. Zenodo. doi:10.5281/zenodo.3744275.
-
-## Past Projects
+Particle tracking is a too used to model the transport of particles in a body of water described by a hydrodynamic model. This project combines the NOAA Great Lakes Observational Forecast Systems with OceanTracker, an open-source high-speed particle tracking package, to run simulated natural experiments of particle release and transport. These experiments are being applied to study aquatic invasive species, microplastics, and point-source pollution problems in the Laurentian Great Lakes.
 
 **Observation of *p*CO<sub>2</sub> in Lake Superior using underway instrumentation**
 *supported by a Grant-in-Aid from the University of Minnesota*
