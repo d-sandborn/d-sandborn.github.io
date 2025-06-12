@@ -3,7 +3,7 @@ title: "Daniel E. Sandborn, Ph.D."
 about:
   template: jolla
   id: bio-heading
-  image: img/profile.jpg
+  image: profile.jpg
   links:
     - icon: github
       text: Github
