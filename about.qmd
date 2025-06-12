@@ -8,9 +8,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/d-sandborn
-    - icon: mastodon
-      text: mastodon
-      href: https://sciencemastodon.com/@DanielSandborn
     - icon: mortarboard
       text: UW
       href: https://www.ocean.washington.edu/home/Daniel_E_Sandborn
@@ -19,7 +16,9 @@ about:
       href: https://www.linkedin.com/in/daniel-e-sandborn-b823a0133/
 ---
 :::{#bio-heading}
-Daniel Sandborn is a postdoctoral researcher at the University of Washington School of Oceanography. His work uses observations of trace gases in the ocean to quantify the ocean's response and feedback to Earth's changing carbon cycle (incl. carbon storage, ocean acidification, and ventilation). He earned his doctorate at the University of Minnesota working at the Large Lakes Observatory to measure the shifting carbon cycle of Lake Superior and other large lakes. Carbon cycling and bicycling are two of his passions.
+I'm a GO-SHIP Postdoctoral Tracer Fellow at the School of Oceanography working with Mark Warner, Brendan Carter, and Zach Erickson to measure trace gases (chlorofluorocarbons, sulfur hexafluoride) in seawater and quantify the ocean’s changing carbon cycle. 
+
+My work leverages my background in analytical chemistry and ocean observation to answer questions of carbon transport and storage, acidification, and ocean ventilation. I also have a particular interest in creating accessible tools for measuring changing ocean chemistry, which has resulted in open-source hardware and software products. 
 
 Have questions? Want to know more? Interested in engaging with this research? Please reach out at the *Contact* tab above.
 :::
