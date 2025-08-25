@@ -6,7 +6,7 @@ website:
   title: "Daniel E. Sandborn"
   navbar:
     right:
-      - href: about.qmd
+      - href: index.qmd
         text: About
       - href: publications.qmd
         text: Publications & Projects
@@ -19,7 +19,9 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: 
+      light: sandstone
+      dark: darkly
     css: styles.css
     toc: true
     font-family: serif

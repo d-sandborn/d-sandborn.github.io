@@ -3,8 +3,7 @@ title: "Publications & Projects"
 editor: visual
 ---
 
-[ORCID Profile](https://orcid.org/0000-0001-9653-2287)
-[Google Scholar Profile](https://scholar.google.com/citations?user=6XRrWhIAAAAJ&hl=en&oi=ao)
+[ORCID Profile](https://orcid.org/0000-0001-9653-2287)  |  [Google Scholar Profile](https://scholar.google.com/citations?user=6XRrWhIAAAAJ&hl=en&oi=ao)
 
 ### Ongoing Projects
 **Leveraging hydrographic observations of transient tracers in the ocean to create statistical and inverse models of ocean circulation and carbon biogeochemistry**
@@ -15,11 +14,11 @@ Transient tracers of ocean circulation, such as chlorofluorocarbons and sulfur h
 
 ## Publications
 
-**Sandborn, D. E.**; Minor, E. C. A neural network-based estimate of the seasonal to inter-annual variability of the Lake Superior carbon cycle. Journal of Geophysical Research: Biogeosciences. *In review.*
+**Sandborn, D. E.**; Minor, E. C. A neural network-based estimate of the seasonal to inter-annual variability of the Lake Superior carbon cycle. Journal of Geophysical Research: Biogeosciences. *In print.*
 
 **Sandborn, D. E.**; Austin, J. A.; Lafrancois, B. M. (2025). Developing a particle tracking model in Lake Superior. NPS Reports. *In review.*
 
-Carter, B. R., Schwinger, J., Sonnerup, R., Fassbender, A. J., Sharp, J. D., Dias, L. M., **Sandborn, D.E.**. (2025). Tracer-based Rapid Anthropogenic Carbon Estimation (TRACE), Earth Syst. Sci. Data. *In print.* [doi:10.5194/essd-2024-560](https://doi.org/10.5194/essd-2024-560)
+Carter, B. R., Schwinger, J., Sonnerup, R., Fassbender, A. J., Sharp, J. D., Dias, L. M., **Sandborn, D.E.**. (2025). Tracer-based Rapid Anthropogenic Carbon Estimation (TRACE), Earth Syst. Sci. Data. [doi:10.5194/essd-2024-560](https://doi.org/10.5194/essd-2024-560)
 
 Christensen, V. G., Katona, L. R., Trompeter, H. E., Maki, R. P., Smith, J. C., & **Sandborn, D. E.** (2025). Water quality-based risk assessment for zebra mussel establishment: a case study of single- and multiple-factor methods in northern temperate lakes. Lake and Reservoir Management, 1–19. [doi:10.1080/10402381.2025.2488829](https://doi.org/10.1080/10402381.2025.2488829)
 
