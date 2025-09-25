@@ -4,6 +4,14 @@ editor: visual
 ---
 ## Presentation Resources
 
+### AGU 2025
+
+*New Orleans, LA, USA*
+
+"Deriving Mixed Layer Boundary Conditions from Ocean Transient Tracer Observations"
+
+Watch this space for materials associated with this presentation. 
+
 ### Program on Climate Change Summer Institute 2025
 
 *Friday Harbor, WA, USA*
@@ -12,24 +20,13 @@ editor: visual
 
 [Click here for a PDF of my poster.](agu25_sandborn.pdf)
 
-This poster is a preview of work to be presented at AGU 2025 in New Orleans, LA, USA. More detailed methods, code, and graphics will be provided here. Citations associated with the poster are below. 
+### Dissertations in Chemical Oceanography (DISCO XXIX) 2024
 
-#### Citations
+*Lihue, HI, USA*
 
-1. He, Y., Tjiputra, J., Langehaug, H. R., Jeansson, E., Gao, Y., Schwinger, J., & Olsen, A. (2018). A Model‐Based Evaluation of the Inverse Gaussian Transit‐Time Distribution Method for Inferring Anthropogenic Carbon Storage in the Ocean. Journal of Geophysical Research: Oceans, 123(3), 1777–1800. https://doi.org/10.1002/2017JC013504
-2. Haine, T. W. N. (2006). On tracer boundary conditions for geophysical reservoirs: How to find the boundary concentration from a mixed condition. Journal of Geophysical Research: Oceans, 111(C5), 2005JC003215. https://doi.org/10.1029/2005JC003215
-3. Orsi, A. H., Smethie, W. M., & Bullister, J. L. (2002). On the total input of Antarctic waters to the deep ocean: A preliminary estimate from chlorofluorocarbon measurements. Journal of Geophysical Research: Oceans, 107(C8). https://doi.org/10.1029/2001JC000976
-4. Lauvset, S. K., Lange, N., Tanhua, T., Bittig, H. C., Olsen, A., Kozyr, A., Álvarez, M., Azetsu-Scott, K., Brown, P. J., Carter, B. R., Cotrim Da Cunha, L., Hoppema, M., Humphreys, M. P., Ishii, M., Jeansson, E., Murata, A., Müller, J. D., Pérez, F. F., Schirnick, C., … Key, R. M. (2024). The annual update GLODAPv2.2023: The global interior ocean biogeochemical data product. Earth System Science Data, 16(4), 2047–2072. https://doi.org/10.5194/essd-16-2047-2024
-5. Johnson, G. C., & Lyman, J. M. (2022). GOSML: A Global Ocean Surface Mixed Layer Statistical Monthly Climatology: Means, Percentiles, Skewness, and Kurtosis. Journal of Geophysical Research: Oceans, 127(1), e2021JC018219. https://doi.org/10.1029/2021JC018219
-6. Bullister, J. L., & Warner, M. J. (2017). Atmospheric Histories (1765-2022) for CFC-11, CFC-12, CFC-113, CCl4, SF6 and N2O (NCEI Accession 0164584) [Dataset]. NOAA National Centers for Environmental Information. https://doi.org/10.3334/CDIAC/OTG.CFC_ATM_HIST_2015
-7. Meinshausen, M., Nicholls, Z. R. J., Lewis, J., Gidden, M. J., Vogel, E., Freund, M., Beyerle, U., Gessner, C., Nauels, A., Bauer, N., Canadell, J. G., Daniel, J. S., John, A., Krummel, P. B., Luderer, G., Meinshausen, N., Montzka, S. A., Rayner, P. J., Reimann, S., … Wang, R. H. J. (2020). The shared socio-economic pathway (SSP) greenhouse gas concentrations and their extensions to 2500. Geoscientific Model Development, 13(8), 3571–3605. https://doi.org/10.5194/gmd-13-3571-2020
-8. Mikaloff Fletcher, S. E., Gruber, N., Jacobson, A. R., Doney, S. C., Dutkiewicz, S., Gerber, M., Follows, M., Joos, F., Lindsay, K., Menemenlis, D., Mouchet, A., Müller, S. A., & Sarmiento, J. L. (2006). Inverse estimates of anthropogenic CO2 uptake, transport, and storage by the ocean. Global Biogeochemical Cycles, 20(2), 2005GB002530. https://doi.org/10.1029/2005GB002530
-9. Gammon, R. H., Cline, J., & Wisegarver, D. (1982). Chlorofluoromethanes in the northeast Pacific Ocean: Measured vertical distributions and application as transient tracers of upper ocean mixing. Journal of Geophysical Research: Oceans, 87(C12), 9441–9454. https://doi.org/10.1029/JC087iC12p09441
-10. Haine, T. W. N., Griffies, S. M., Gebbie, G., & Jiang, W. (2025). A Review of Green’s Function Methods for Tracer Timescales and Pathways in Ocean Models. Journal of Advances in Modeling Earth Systems, 17(7), e2024MS004637. https://doi.org/10.1029/2024MS004637
-11. Khatiwala, S., Primeau, F., & Hall, T. (2009). Reconstruction of the history of anthropogenic CO2 concentrations in the ocean. Nature, 462(7271), 346–349. https://doi.org/10.1038/nature08526
-12. Carter, B. R., Schwinger, J., Sonnerup, R., Fassbender, A. J., Sharp, J. D., Dias, L. M., & Sandborn, D. E. (2025). Tracer-based rapid anthropogenic carbon estimation (TRACE). Earth System Science Data, 17(6), 3073–3088. https://doi.org/10.5194/essd-17-3073-2025 
-13. Shao, A. E., Mecking, S., Thompson, L., & Sonnerup, R. E. (2013). Mixed layer saturations of CFC-11, CFC-12, and SF6 in a global isopycnal model: Surface Saturation of CFCs and SF6. Journal of Geophysical Research: Oceans, 118(10), 4978–4988. https://doi.org/10.1002/jgrc.20370
-14. Raimondi, L., Tanhua, T., Azetsu‐Scott, K., Yashayaev, I., & Wallace, D. W. R. (2021). A 30 ‐Year Time Series of Transient Tracer‐Based Estimates of Anthropogenic Carbon in the Central Labrador Sea. Journal of Geophysical Research: Oceans, 126(5), e2020JC017092. https://doi.org/10.1029/2020JC017092
+"The other CO<sub>2</sub> problem and the Laurentian Great Lakes"
+
+Slides available upon request. This presentation is associated with my [doctoral dissertation](https://hdl.handle.net/11299/270067) and two of its published chapters [here](https://doi.org/10.1029/2023JG007877) and [here](https://doi.org/10.1029/2024JG008610). 
 
 ### ASLO 2024
 
@@ -67,7 +64,11 @@ This poster is associated with a publication:
 
 ### TRACE
 
-TRACE: Tracer-based Rapid Anthropogenic Carbon Estimation is an algorithm for estimation of anthropogenic carbon in the ocean. It's available for MATLAB (originally -- see the [TRACEv1 paper](https://doi.org/10.5194/essd-17-3073-2025)) and my work-in-progress [Python](https://github.com/d-sandborn/pyTRACE) port. 
+TRACE: Tracer-based Rapid Anthropogenic Carbon Estimation is an algorithm for estimation of anthropogenic carbon in the ocean. It's available for MATLAB (originally -- see the [TRACEv1 paper](https://doi.org/10.5194/essd-17-3073-2025)) and my work-in-progress [Python](https://github.com/d-sandborn/pyTRACE) port which is the subject of a manuscript in preparation. 
+
+### LGLParticleTracking
+
+[Demo code](https://github.com/d-sandborn/LGLParticleTracking) for replicating and extending our Lake Superior particle tracking study. This work is the first to couple the updated Lake Superior Operational Forecast System FVCOM hydrodynamic hindhast model with particle tracking software (here, the open-source [OceanTracker](https://oceantracker.github.io/oceantracker/index.html)). This project will be described further in an NPS Report currently in review. 
 
 ### RPi-Alkalinity
 
