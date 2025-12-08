@@ -3,44 +3,42 @@ title: "Publications & Projects"
 editor: visual
 ---
 
-[ORCID Profile](https://orcid.org/0000-0001-9653-2287)  |  [Google Scholar Profile](https://scholar.google.com/citations?user=6XRrWhIAAAAJ&hl=en&oi=ao)
+```{=html}
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0001-9653-2287"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      ORCID Profile
+    </a>
+```
+```{=html}
+    <a
+    id="cy-effective-gscholar-url"
+    class="underline"
+     href="https://scholar.google.com/citations?user=6XRrWhIAAAAJ&hl=en&oi=ao"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="google scholar icon"/>
+        Google Scholar Profile
+    </a>
+```
 
 ### Ongoing Projects
 **Leveraging hydrographic observations of transient tracers in the ocean to create statistical and inverse models of ocean circulation and carbon biogeochemistry**
 *supported by GO-SHIP Tracer Postdoctoral Fellowship*
 
-Transient tracers of ocean circulation, such as chlorofluorocarbons and sulfur hexafluoride, provide a powerful means of observing and inferring ocean circulation as a primary driver of the marine carbon sink of anthropogenic carbon. This project uses the wealth of transient tracer observations of the open ocean to address persistent disagreements in the strength and trend of ocean carbon storage, which is an important regulator of Earth's climate. While utilizing existing measurements, I will participate in repeat hydrography expeditions to perpetuate the invaluable transient tracer observation program. 
-
-
-## Publications
-
-**Sandborn, D. E.**, Minor, E. C., & Austin, J. A. (2025). A neural network-based estimate of the seasonal to inter-annual variability of the Lake Superior carbon cycle. Journal of Geophysical Research: Biogeosciences, 130, e2024JG008610. [doi: 10.1029/2024JG008610](https://doi.org/10.1029/2024JG008610)
-
-**Sandborn, D. E.**; Austin, J. A.; Lafrancois, B. M. (2025). Developing a particle tracking model in Lake Superior. NPS Reports. *In review.*
-
-Carter, B. R., Schwinger, J., Sonnerup, R., Fassbender, A. J., Sharp, J. D., Dias, L. M., **Sandborn, D.E.**. (2025). Tracer-based Rapid Anthropogenic Carbon Estimation (TRACE), Earth Syst. Sci. Data. [doi:10.5194/essd-2024-560](https://doi.org/10.5194/essd-2024-560)
-
-Christensen, V. G., Katona, L. R., Trompeter, H. E., Maki, R. P., Smith, J. C., & **Sandborn, D. E.** (2025). Water quality-based risk assessment for zebra mussel establishment: a case study of single- and multiple-factor methods in northern temperate lakes. Lake and Reservoir Management, 1–19. [doi:10.1080/10402381.2025.2488829](https://doi.org/10.1080/10402381.2025.2488829)
-
-**Sandborn, D. E.** (2024). Inorganic carbon cycling in Lake Superior and responses to anthropogenic carbon dioxide [Doctoral dissertation, University of Minnesota]. University Digital Conservancy. [hdl.handle.net/11299/270067](https://hdl.handle.net/11299/270067)
-
-**Sandborn, D. E.** & Minor, E. C. (2024). Underway *p*CO<sub>2</sub> surveys unravel CO<sub>2</sub> invasion of Lake Superior from seasonal variability. Journal of Geophysical Research: Biogeosciences, 129, e2023JG007877. [doi:10.1029/2023JG007877](https://doi.org/10.1029/2023JG007877) 
-
-Pennington, Stephanie C. et al. (2023). EXCHANGE Campaign 1: A Community-Driven Baseline Characterization of Soils, Sediments, and Water Across Coastal Gradients. [doi:10.15485/1960313](https://doi.org/10.15485/1960313)
-
-Regier P. et al. (2023) Coastal inundation regime moderates the short-term effects of sediment and soil additions on seawater oxygen and greenhouse gas dynamics: a microcosm experiment. Frontiers in Marine Science. [doi: 10.3389/fmars.2023.1308590](https://doi.org/10.3389/fmars.2023.1308590)
-
-**Sandborn, D. E.**; Minor, E. C.; Hill, C. “Total Alkalinity Measurement Using an Open-Source
-Platform”. (2023). Limnology and Oceanography Methods. [doi:10.1002/lom3.10549](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10549)
-
-## Software
-
-**Sandborn, D. E.**, & Carter, B. M. (2025). Tracer-based Rapid Anthropogenic Carbon Estimation (TRACEv0.1.0-Python) (v0.1.0-beta). Zenodo. [doi:10.5281/zenodo.15597123](https://doi.org/10.5281/zenodo.15597123)
-
-**Sandborn, D. E.** (2023). "RPi-Alkalinity: Publication Release". Zenodo. [doi:10.5281/zenodo.7864447](https://doi.org/10.5281/zenodo.7864447)
-
-Humphreys, M. P., Schiller, A. J., **Sandborn, D. E.**, Gregor, L., Pierrot, D., van Heuven, S. M. A. C., Lewis, E. R., and Wallace, D. W. R. (2023). PyCO2SYS: marine carbonate system calculations in Python. Zenodo. [doi:10.5281/zenodo.3744275](https://doi.org/10.5281/zenodo.3744275)
-
+Transient tracers of ocean circulation, e.g. chlorofluorocarbons and sulfur hexafluoride, provide a powerful means of observing and inferring upper ocean circulation as a primary driver of the ocean carbon sink. We harness the wealth of transient tracer observations in the open ocean to address persistent disagreements in the state and change of anthropogenic carbon inventories on global and regional scales. While utilizing existing measurements, I will participate in repeat hydrography expeditions to perpetuate the invaluable transient tracer observation program. 
 
 ## Past Projects
 **Calcium carbonate saturation effects on Dreissenid mussel habitat**

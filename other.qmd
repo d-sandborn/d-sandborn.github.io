@@ -10,15 +10,11 @@ editor: visual
 
 "Deriving Mixed Layer Boundary Conditions from Ocean Transient Tracer Observations"
 
-Watch this space for materials associated with this presentation. 
-
-### Program on Climate Change Summer Institute 2025
-
-*Friday Harbor, WA, USA*
-
-"Deriving Mixed Layer Boundary Conditions from Ocean Transient Tracer Observations"
+Uncertainty in surface ocean saturation histories of transient tracers and carbon dioxide is the single largest source of error in transit time distribution (TTD) methods, fundamentally limiting transient tracer applications including ventilation age inference and ocean anthropogenic carbon inventories. We created an observationally-constrained global mapped product air-sea disequilibrium for chlorofluorocarbons 11 and 12 and sulfur hexafluoride using repeat hydrographic observations completed by the WOCE program and its successors. A Markov Chain Monte Carlo deconvolution method was employed to invert a surface boundary age spectrum (Green's function) from observations representing the deep winter mixed layer in outcrops of various isoneutral slabs. Convolution of the resulting spectra with atmospheric histories of the transient tracers yielded surface boundary functions expressing tracer surface saturation throughout their histories. Application of these functions to climatologically-defined deep winter mixing outcrops yielded a spatially- and temporally- varying product illustrating the evolving surface expressions of transient gases, and enables the formulation of a single-source surface boundary function for TTD age modeling. 
 
 [Click here for a PDF of my poster.](agu25_sandborn.pdf)
+
+[Supplementary information with detailed methods, results, and more.](agu25_sandborn_si.pdf)
 
 ### Dissertations in Chemical Oceanography (DISCO XXIX) 2024
 

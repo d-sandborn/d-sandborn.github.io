@@ -11,6 +11,9 @@ about:
     - icon: mortarboard
       text: UW
       href: https://www.ocean.washington.edu/home/Daniel_E_Sandborn
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0001-9653-2287
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/daniel-e-sandborn-b823a0133/
@@ -19,9 +22,9 @@ about:
       href: https://bsky.app/profile/danielsandborn.bsky.social
 ---
 :::{#bio-heading}
-I'm a GO-SHIP Tracer Postdoctoral Scholar at the University of Washington School of Oceanography working with Mark Warner, Brendan Carter, and Zach Erickson to measure trace gases (chlorofluorocarbons, sulfur hexafluoride) in seawater and quantify the ocean’s changing carbon cycle. 
+I'm a GO-SHIP Tracer Postdoctoral Scholar at the University of Washington School of Oceanography working with Mark Warner, Brendan Carter, and Zach Erickson to measure trace gases (chlorofluorocarbons, sulfur hexafluoride) in seawater and quantify the ocean’s changing ventilation and carbon cycle. 
 
-My work leverages my background in analytical chemistry and ocean observation to answer questions of carbon transport and storage, acidification, and ocean ventilation. I also have an interest in creating accessible tools for measuring changing ocean chemistry, which has resulted in open-source hardware and software products. 
+My work leverages my background in analytical chemistry and ocean observation to answer questions of carbon transport and storage, acidification, and ocean ventilation. I also have an interest in creating accessible tools for measuring ocean chemistry, which has resulted in open-source hardware and software products. 
 
 Have questions? Want to know more? Interested in engaging with my research? Please reach out at the *Contact* tab above.
 :::
