@@ -8,19 +8,21 @@ editor: visual
 
 *New Orleans, LA, USA*
 
-"Deriving Mixed Layer Boundary Conditions from Ocean Transient Tracer Observations"
+"Deriving Mixed Layer Boundary Conditions from Ocean Transient Tracer Observations"[^1]
+
+[^1]: See also: [supplementary information with methods, results, and more.](agu25_sandborn_si.pdf)
 
 Uncertainty in surface ocean saturation histories of transient tracers and carbon dioxide is the single largest source of error in transit time distribution (TTD) methods, fundamentally limiting transient tracer applications including ventilation age inference and ocean anthropogenic carbon inventories. We created an observationally-constrained global mapped product air-sea disequilibrium for chlorofluorocarbons 11 and 12 and sulfur hexafluoride using repeat hydrographic observations completed by the WOCE program and its successors. A Markov Chain Monte Carlo deconvolution method was employed to invert a surface boundary age spectrum (Green's function) from observations representing the deep winter mixed layer in outcrops of various isoneutral slabs. Convolution of the resulting spectra with atmospheric histories of the transient tracers yielded surface boundary functions expressing tracer surface saturation throughout their histories. Application of these functions to climatologically-defined deep winter mixing outcrops yielded a spatially- and temporally- varying product illustrating the evolving surface expressions of transient gases, and enables the formulation of a single-source surface boundary function for TTD age modeling. 
 
-[Click here for a PDF of my poster.](agu25_sandborn.pdf)
+![](agu25_sandborn.pdf){width=100%}
 
-[Supplementary information with detailed methods, results, and more.](agu25_sandborn_si.pdf)
+### Dissertations in Chemical Oceanography (DISCO XXIX) 2024[^4]
 
-### Dissertations in Chemical Oceanography (DISCO XXIX) 2024
+[^4]: ![](jgrg23094-fig-0006-m.png)
 
 *Lihue, HI, USA*
 
-"The other CO<sub>2</sub> problem and the Laurentian Great Lakes"
+"The Other CO<sub>2</sub> problem and the Laurentian Great Lakes"
 
 Slides available upon request. This presentation is associated with my [doctoral dissertation](https://hdl.handle.net/11299/270067) and two of its published chapters [here](https://doi.org/10.1029/2023JG007877) and [here](https://doi.org/10.1029/2024JG008610). 
 
@@ -28,23 +30,40 @@ Slides available upon request. This presentation is associated with my [doctoral
 
 *Madison, WI, USA*
 
-"Patterns of Lake Superior AIS dispersal illustrated by particle tracking"
+"Patterns of Lake Superior AIS dispersal illustrated by particle tracking"[^2]
 
-This presentation is associated with a manuscript:
+[^2]: Associated with a manuscript:  
 
-> **Sandborn, D. E.**; Austin, J. A.; Lafrancois, B. M. (2025). ``Developing a particle tracking model in Lake Superior''. NPS Reports. *In review.*
+	**Sandborn, D. E.**; Austin, J. A.; Lafrancois, B. M. (2025). ``Developing a particle tracking model in Lake Superior''. NPS Reports. *In production.*]
 
 ### OCB 2023
 
 *Woods Hole, MA, USA*
 
-"The Other CO<sub>2</sub> Problem in the Saltless Seas: High-Resolution Observations in Lake Superior"
+"The Other CO<sub>2</sub> Problem in the Saltless Seas: High-Resolution Observations in Lake Superior"[^3]
 
-[Click here for a PDF of my poster.](Sandborn_OCB_23.pdf)
+![](Sandborn_OCB_23.pdf){width=100%}
 
-This poster is associated with a publication: 
+[^3]: Associated with a publication:
 
-> **Sandborn, D. E.** & Minor, E. C. (2024). Underway *p*CO<sub>2</sub> surveys unravel CO<sub>2</sub> invasion of Lake Superior from seasonal variability. Journal of Geophysical Research: Biogeosciences, 129, e2023JG007877. [doi:10.1029/2023JG007877](https://doi.org/10.1029/2023JG007877)
+	**Sandborn, D. E.** & Minor, E. C. (2024). Underway *p*CO<sub>2</sub> surveys unravel CO<sub>2</sub> invasion of Lake Superior from seasonal variability. Journal of Geophysical Research: Biogeosciences, 129, e2023JG007877. [doi:10.1029/2023JG007877](https://doi.org/10.1029/2023JG007877)
+
+## Code
+
+### TRACE
+
+TRACE: Tracer-based Rapid Anthropogenic Carbon Estimation is an algorithm for estimation of anthropogenic carbon in the ocean. It's available for [MATLAB](https://github.com/BRCScienceProducts/TRACEv1)[^5] and [Python](https://github.com/d-sandborn/pyTRACE). For further information on installation and use, please reference [the online documentation](https://d-sandborn.github.io/TRACE/).
+
+[^5]: See the [TRACEv1 paper](https://doi.org/10.5194/essd-17-3073-2025). 
+
+
+### LGLParticleTracking
+
+[Demo code](https://github.com/d-sandborn/LGLParticleTracking) for replicating and extending our Lake Superior particle tracking study. This work is the first to couple the updated Lake Superior Operational Forecast System FVCOM hydrodynamic hindhast model with particle tracking software (here, the open-source [OceanTracker](https://oceantracker.github.io/oceantracker/index.html)). This project is described further in an NPS Report currently in production. 
+
+### RPi-Alkalinity
+
+[Resources](https://github.com/d-sandborn/RPi-Alkalinity) for open-source, low-cost alkalinity titration with a Raspberry Pi. This project is described further in the [associated publication](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lom3.10549).
 
 ## Outreach and Teaching
 
@@ -56,16 +75,3 @@ This poster is associated with a publication:
 
 [A collaborative effort](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Limnology_and_Oceanography) to improve L&O-related content on Wikipedia. 
 
-## Coding
-
-### TRACE
-
-TRACE: Tracer-based Rapid Anthropogenic Carbon Estimation is an algorithm for estimation of anthropogenic carbon in the ocean. It's available for MATLAB (originally -- see the [TRACEv1 paper](https://doi.org/10.5194/essd-17-3073-2025)) and my work-in-progress [Python](https://github.com/d-sandborn/pyTRACE) port which is the subject of a manuscript in preparation. 
-
-### LGLParticleTracking
-
-[Demo code](https://github.com/d-sandborn/LGLParticleTracking) for replicating and extending our Lake Superior particle tracking study. This work is the first to couple the updated Lake Superior Operational Forecast System FVCOM hydrodynamic hindhast model with particle tracking software (here, the open-source [OceanTracker](https://oceantracker.github.io/oceantracker/index.html)). This project will be described further in an NPS Report currently in review. 
-
-### RPi-Alkalinity
-
-[Resources](https://github.com/d-sandborn/RPi-Alkalinity) for open-source, low-cost alkalinity titration with a Raspberry Pi. This project is described further in the [associated publication](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lom3.10549).

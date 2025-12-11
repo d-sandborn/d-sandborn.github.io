@@ -1,29 +1,28 @@
 project:
-  type: website
-  output-dir: docs
-
-website:
-  title: "Daniel E. Sandborn"
-  navbar:
-    right:
-      - href: index.qmd
-        text: About
-      - href: publications.qmd
-        text: Publications & Projects
-      - href: contact.qmd
-        text: Contact
-      - href: CV_Sandborn.pdf
-        text: CV
-      - href: other.qmd
-        text: Other Resources
-
-format:
-  html:
-    theme: 
-      light: sandstone
-      dark: darkly
-    css: styles.css
-    toc: true
-    font-family: serif
-
-editor: visual
+    type: tufte
+    output-dir: docs
+book:
+  open-graph: true
+  site-url: https://d-sandborn.github.io/
+  repo-url: https://github.com/d-sandborn/d-sandborn.github.io/tree/main
+  repo-actions: [edit, issue]
+  title: |
+    
+  title-short: Portfolio # title-short is used in the pdf head
+  output-file: TufteStyledBook # outputs: docs/TufteStyledBook.pdf
+  author: Daniel E. Sandborn
+  publisher: The Publisher
+  date-format: MMMM, YYYY
+  license: "CC BY"
+  chapters:
+    - href: index.qmd
+      text: About
+    - href: publications.qmd
+      text: Publications & Projects
+    - href: other.qmd
+      text: Other Resources
+    - href: contact.qmd
+      text: Contact
+    - href: CV_Sandborn.pdf
+      text: CV
+bibliography: references.bib
